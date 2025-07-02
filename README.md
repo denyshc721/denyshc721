@@ -72,16 +72,3 @@
   <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Pytest-3776AB?logo=python&logoColor=white&style=flat-square" />
 </p>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark&hide_title=false&count_private=true" alt="Jackson's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark&hide_title=false" alt="Jackson's Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=github-compact&hide_border=true" alt="Jackson's Contribution Graph" />
-</p>
