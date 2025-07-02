@@ -4,23 +4,12 @@
 
 ## 🥇 My Tech Stack
 
-### 💎 Frontend
-React, Next, Vue, Nuxt, Angular, TailwindCSS, MUI, Ant Design, Chakra UI, Vuetify, HTML, CSS, SCSS, Styled Components
-
-### 💎 Backend
-On the server side, I develop RESTful and GraphQL APIs using **Node.js**, **Express.js**, and **Nest.js**. I also have strong experience with **Python frameworks** like **Django**, **Flask**, and **FastAPI**, and work with **PHP**, **Laravel**, and **Symfony** for enterprise-grade backend systems.
-
-### 💎 Database
-I’m proficient with both SQL and NoSQL databases, including **MongoDB**, **DynamoDB**, **Firebase**, **Redis**, **MySQL**, and **PostgreSQL**.
-
-### 💎 API Integration
-Integrated various third-party APIs including **Stripe**, **PayPal**, **Google APIs**, **Twilio**, and **SendGrid** using **REST**, **WebSockets**, and **GraphQL**.
-
-### 💎 DevOps & Tools
-I use **Git** (GitHub, GitLab), **Docker**, **Jenkins**, **Azure**, **Kubernetes**, and **AWS** for deployment, CI/CD, and cloud infrastructure.
-
-### 💎 Testing & QA
-I ensure software quality using **Cypress**, **Playwright**, and unit testing tools like **Jest**, **Mocha**, and **Pytest**.
+### 💎 Frontend: React, Next, Vue, Nuxt, Angular, TailwindCSS, MUI, Ant Design, Chakra UI, Vuetify, HTML, CSS, SCSS, Styled Components
+### 💎 Backend: Node, Express, Nest, Python, Django, Flask, FastAPI, PHP, Laravel, Symfony
+### 💎 Database: MongoDB, DynamoDB, Firebase, Redis, MySQL, PostgreSQL
+### 💎 API Integration: Stripe, PayPal, Google APIs, Twilio, SendGrid, REST, WebSockets, GraphQL
+### 💎 DevOps & Tools: GitHub, Docker, Jenkins, Azure, Kubernetes, AWS, CI/CD
+### 💎 Testing & QA: Cypress, Playwright, Jest, Mocha, Pytest
 
 <p align="left">
   <!-- Frontend -->
