@@ -1,8 +1,8 @@
-# 🏆🏆🏆 Hello, my name is Denys and I am a senior full stack developer with over 8 years of experience. 👍👍👍
+## 🏆🏆🏆 Hello, my name is Denys and I am a senior full stack developer with over 8 years of experience. 👍👍👍
 
 ---
 
-## 🥇 My Tech Stack
+### 🥇 My Tech Stack
 
 ##### 💎 Frontend: React, Next, Vue, Nuxt, Angular, TailwindCSS, MUI, Ant Design, Chakra UI, Vuetify, HTML, CSS, SCSS, Styled Components
 ##### 💎 Backend: Node, Express, Nest, Python, Django, Flask, FastAPI, PHP, Laravel, Symfony
