@@ -4,12 +4,12 @@
 
 ## 🥇 My Tech Stack
 
-💎 <p>Frontend: React, Next, Vue, Nuxt, Angular, TailwindCSS, MUI, Ant Design, Chakra UI, Vuetify, HTML, CSS, SCSS, Styled Components</p>
-💎 Backend: Node, Express, Nest, Python, Django, Flask, FastAPI, PHP, Laravel, Symfony
-💎 Database: MongoDB, DynamoDB, Firebase, Redis, MySQL, PostgreSQL
-💎 API Integration: Stripe, PayPal, Google APIs, Twilio, SendGrid, REST, WebSockets, GraphQL
-💎 DevOps & Tools: GitHub, Docker, Jenkins, Azure, Kubernetes, AWS, CI/CD
-### 💎 Testing & QA: Cypress, Playwright, Jest, Mocha, Pytest
+##### 💎 Frontend: React, Next, Vue, Nuxt, Angular, TailwindCSS, MUI, Ant Design, Chakra UI, Vuetify, HTML, CSS, SCSS, Styled Components
+##### 💎 Backend: Node, Express, Nest, Python, Django, Flask, FastAPI, PHP, Laravel, Symfony
+##### 💎 Database: MongoDB, DynamoDB, Firebase, Redis, MySQL, PostgreSQL
+##### 💎 API Integration: Stripe, PayPal, Google APIs, Twilio, SendGrid, REST, WebSockets, GraphQL
+##### 💎 DevOps & Tools: GitHub, Docker, Jenkins, Azure, Kubernetes, AWS, CI/CD
+##### 💎 Testing & QA: Cypress, Playwright, Jest, Mocha, Pytest
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
