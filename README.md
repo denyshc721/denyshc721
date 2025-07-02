@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jackson Paul
+# 🏆🏆🏆 Hello, my name is Denys. 👍👍👍
 
-I'm a full-stack developer with over 10 years of experience delivering modern, performant, and scalable web applications. I specialize in building seamless frontend experiences, robust backend systems, and cloud-integrated platforms that solve real-world problems.
+I'm a full-stack developer with over 8 years of experience delivering modern, performant, and scalable web applications. I specialize in building seamless frontend experiences, robust backend systems, and cloud-integrated platforms that solve real-world problems.
 
 ---
 
@@ -32,14 +32,6 @@ I use **Git** (GitHub, GitLab), **Docker**, **Jenkins**, **Azure**, **Kubernetes
 
 ### 🚀 Testing & QA
 I ensure software quality using **Cypress**, **Playwright**, and unit testing tools like **Jest**, **Mocha**, and **Pytest**.
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://your-portfolio.com)
-- 📧 your.email@example.com
 
 ---
 
